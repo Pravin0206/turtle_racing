@@ -1,1 +1,1 @@
-# turtle_racing
+Turtle's race developed using Turtle library.
